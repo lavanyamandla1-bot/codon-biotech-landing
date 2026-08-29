@@ -101,6 +101,7 @@ only after a scroll — executed as bordered mono chips consistent with the
 rest of CODON's system, not the rounded dark cards they're rendered as
 elsewhere.
 
+
 ### Visual identity
 - **Palette** — a clean, light "paper" background (`#F7F8F7`) with two deep
   accents held in deliberate tension: coral (`#C43E2C`) and teal (`#147063`).
